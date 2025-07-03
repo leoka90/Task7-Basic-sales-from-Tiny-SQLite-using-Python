@@ -1,12 +1,12 @@
-# 📊 Task 7 - Basic Sales Summary using SQLite in Python
+#  Task 7 - Basic Sales Summary using SQLite in Python
 
-## ✅ Objective
+##  Objective
 
 To extract simple sales information (total quantity and total revenue) from a SQLite database using SQL in Python, and visualize the results using a bar chart.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Python** (built-in `sqlite3`)
 - **SQLite** (no external setup needed)
@@ -15,7 +15,7 @@ To extract simple sales information (total quantity and total revenue) from a SQ
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 A sample SQLite database (`sales_data.db`) is created with one table named `sales`, containing the following columns:
 
@@ -34,7 +34,7 @@ A sample SQLite database (`sales_data.db`) is created with one table named `sale
 
 ---
 
-## 🔍 SQL Query Used
+##  SQL Query Used
 
 ```sql
 SELECT 
