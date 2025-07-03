@@ -43,3 +43,9 @@ SELECT
     SUM(quantity * price) AS revenue 
 FROM sales 
 GROUP BY product;
+
+##  Files Included
+1.sales_data.py — Python script
+2.sales_chart.png — Output chart
+
+
